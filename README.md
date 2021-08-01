@@ -2,7 +2,7 @@
 
 <h2 style="color:"#fff";">Welcome to My Space </h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-vishnuojha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishnu-ojha/)](https://www.linkedin.com/in/vishnu-ojha/)    [![Gmail Badge](https://img.shields.io/badge/-vishnuojha09@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vishnuojha09@gmail.com)](mailto:vishnuojha09@gmail.com)  [![Behance](https://img.shields.io/badge/-https://www.behance.net/vishnuojha1-blue?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/vishnuojha1)](https://www.behance.net/vishnuojha1)  [![Dribble](https://img.shields.io/badge/-https://dribbble.com/Vish_XXO-%23CC6699?style=flat-square&logo=Dribbble&logoColor=white&link=mailto:https://dribbble.com/Vish_XXO)](https://dribbble.com/Vish_XXO)  
+[![Linkedin Badge](https://img.shields.io/badge/-VishnuOjha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishnu-ojha/)](https://www.linkedin.com/in/vishnu-ojha/)    [![Gmail Badge](https://img.shields.io/badge/-VishnuOjha-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vishnuojha09@gmail.com)](mailto:vishnuojha09@gmail.com)  [![Behance](https://img.shields.io/badge/-VishnuOjha-blue?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/vishnu_Ojha)](https://www.behance.net/vishnu_Ojha)  [![Dribble](https://img.shields.io/badge/-VishnuOjha-%23CC6699?style=flat-square&logo=Dribbble&logoColor=white&link=mailto:https://dribbble.com/VishnuOjha)](https://dribbble.com/VishnuOjha)  
 </a>
 </a>
  
