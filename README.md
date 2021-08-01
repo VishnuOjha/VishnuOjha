@@ -35,7 +35,7 @@
 
 <!-- ![Flutter](https://img.shields.io/badge/-flutter-1d1d1d?style=flat-square&logo=flutter) -->
 ![Android](https://img.shields.io/badge/-Android-1d1d1d?style=flat-square&logo=android)
-# Languages
+# Core Languages
 
 ![C](https://img.shields.io/badge/-black?style=flat&logo=c&logoColor=white&link=https://github.com/voidHimanshu)
 ![C++](https://img.shields.io/badge/++-black?style=flat&logo=c&logoColor=white&link=https://github.com/voidHimanshu)
