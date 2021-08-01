@@ -73,13 +73,13 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/voidHimanshu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidHimanshu&hide=css,hack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/VishnuOjha">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuOjha&hide=css,hack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/voidHimanshu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=voidHimanshu&show_icons=true&line_height=27&count_private=true&&theme=radical" alt="Vishnu's GitHub Stats" />
+<a href="https://github.com/VishnuOjha">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VishnuOjha&show_icons=true&line_height=27&count_private=true&&theme=radical" alt="Vishnu's GitHub Stats" />
 </a>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=voidhimanshu.voidHimanshu)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=VishnuOjha.VishnuOjha)
 
 ⭐️ From [pranjaljain0](https://github.com/pranjaljain0)
