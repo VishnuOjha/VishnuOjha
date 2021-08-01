@@ -2,7 +2,7 @@
 
 <h2 style="color:"#fff";" >Welcome to My Space </h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-VishnuOjha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishnu-ojha/)](https://www.linkedin.com/in/vishnu-ojha/)    [![Gmail Badge](https://img.shields.io/badge/-VishnuOjha-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vishnuojha09@gmail.com)](mailto:vishnuojha09@gmail.com)  [![Behance](https://img.shields.io/badge/-VishnuOjha-blue?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/vishnu_Ojha)](https://www.behance.net/vishnu_Ojha)  [![Dribble](https://img.shields.io/badge/-VishnuOjha-%23CC6699?style=flat-square&logo=Dribbble&logoColor=white&link=mailto:https://dribbble.com/VishnuOjha)](https://dribbble.com/VishnuOjha)  
+[![Linkedin Badge](https://img.shields.io/badge/-VishnuOjha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishnu-ojha/)](https://www.linkedin.com/in/vishnu-ojha/)    [![Gmail Badge](https://img.shields.io/badge/-VishnuOjha-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vishnuojha09@gmail.com)](mailto:vishnuojha09@gmail.com)  [![Behance](https://img.shields.io/badge/-VishnuOjha-2940D3?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/vishnu_Ojha)](https://www.behance.net/vishnu_Ojha)  [![Dribble](https://img.shields.io/badge/-VishnuOjha-%23CC6699?style=flat-square&logo=Dribbble&logoColor=white&link=mailto:https://dribbble.com/VishnuOjha)](https://dribbble.com/VishnuOjha)  
 </a>
 </a>
  
@@ -26,31 +26,31 @@
 ![Expressjs](https://img.shields.io/badge/-Expressjs-black?style=flat-square&logo=Express.js)
 ![Threejs](https://img.shields.io/badge/-Threejs-black?style=flat-square&logo=Three.js)
 ![Nextjs](https://img.shields.io/badge/-Nextjs-black?style=flat-square&logo=Next.js)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Angular](https://img.shields.io/badge/-Angular-563D7C?style=flat-square&logo=angular)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![TailWind](https://img.shields.io/badge/-TailWindCSS-563D7C?style=flat-square&logo=tailwind)
 
 ### Mobile
 
-![Flutter](https://img.shields.io/badge/-flutter-1d1d1d?style=flat-square&logo=flutter)
+<!-- ![Flutter](https://img.shields.io/badge/-flutter-1d1d1d?style=flat-square&logo=flutter) -->
 ![Android](https://img.shields.io/badge/-Android-1d1d1d?style=flat-square&logo=android)
 # Languages
 
-![C](https://img.shields.io/badge/-3d3d3d?style=flat&logo=c&logoColor=white&link=https://github.com/voidHimanshu)
-![C++](https://img.shields.io/badge/++-3d3d3d?style=flat&logo=c&logoColor=white&link=https://github.com/voidHimanshu)
+![C](https://img.shields.io/badge/-black?style=flat&logo=c&logoColor=white&link=https://github.com/voidHimanshu)
+![C++](https://img.shields.io/badge/++-black?style=flat&logo=c&logoColor=white&link=https://github.com/voidHimanshu)
 ![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/voidHimanshu)
 ![Pyhton](https://img.shields.io/badge/Pyhton-yellow?style=flat&logo=python&logoColor=white&link=https://github.com/voidHimanshu)
 
-### Design
+<!-- ### Design
 
-![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
-![Adobe Illustrator](http://img.shields.io/badge/-Abode%20Illustrator-FC8F30?style=flat-square&logo=adobe-illustrator&logoColor=ffffff)
-![Adobe XD](http://img.shields.io/badge/-Abode%20XD-fe61f6?style=flat-square&logo=adobe-XD&logoColor=ffffff)
+![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-2940D3?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
+![Adobe Illustrator](http://img.shields.io/badge/-Abode%20Illustrator-FF884B?style=flat-square&logo=adobe-illustrator&logoColor=ffffff)
+![Adobe XD](http://img.shields.io/badge/-Abode%20XD-FF577F?style=flat-square&logo=adobe-XD&logoColor=ffffff)
 
 ### Motion Graphics
 
-![Adobe After Effects](http://img.shields.io/badge/-Adobe%20After%20Effects-3C4858?style=flat-square&logo=adobe-after-effects)
+![Adobe After Effects](http://img.shields.io/badge/-Adobe%20After%20Effects-A561FF?style=flat-square&logo=adobe-after-effects) -->
 
 ### Database
 
