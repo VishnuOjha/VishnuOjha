@@ -8,7 +8,7 @@
  
 
 
-- 🔭 MERN & MEAN Stack Developer with having 3D and AR-VR design intrest. 
+- 🔭 MERN & MEAN Stack Developer with having 3D and AR-VR design interest. 
 - ⚡ Always Ready to work on Something new and Challenge one.
 
 ## 🔧 Technologies & Tools
