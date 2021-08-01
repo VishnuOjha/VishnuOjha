@@ -40,7 +40,7 @@
 ![C](https://img.shields.io/badge/-3d3d3d?style=flat&logo=c&logoColor=white&link=https://github.com/voidHimanshu)
 ![C++](https://img.shields.io/badge/++-3d3d3d?style=flat&logo=c&logoColor=white&link=https://github.com/voidHimanshu)
 ![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/voidHimanshu)
-![Pyhton](https://img.shields.io/badge/pyhton-yellow?style=flat&logo=python&logoColor=white&link=https://github.com/voidHimanshu)
+![Pyhton](https://img.shields.io/badge/Pyhton-yellow?style=flat&logo=python&logoColor=white&link=https://github.com/voidHimanshu)
 
 ### Design
 
@@ -63,6 +63,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat-square&logo=netlify)
+![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat-square&logo=heroku)
 
 ### Editors
 
