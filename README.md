@@ -1,6 +1,6 @@
-### Hi there!! <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+ Hi there!! <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<h2 style="color:"#fff";">Welcome to My Space </h2>
+<h2 style="color:"#fff";" >Welcome to My Space </h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-VishnuOjha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishnu-ojha/)](https://www.linkedin.com/in/vishnu-ojha/)    [![Gmail Badge](https://img.shields.io/badge/-VishnuOjha-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vishnuojha09@gmail.com)](mailto:vishnuojha09@gmail.com)  [![Behance](https://img.shields.io/badge/-VishnuOjha-blue?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/vishnu_Ojha)](https://www.behance.net/vishnu_Ojha)  [![Dribble](https://img.shields.io/badge/-VishnuOjha-%23CC6699?style=flat-square&logo=Dribbble&logoColor=white&link=mailto:https://dribbble.com/VishnuOjha)](https://dribbble.com/VishnuOjha)  
 </a>
