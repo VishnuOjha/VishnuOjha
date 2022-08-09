@@ -32,10 +32,6 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![TailWind](https://img.shields.io/badge/-TailWindCSS-563D7C?style=flat-square&logo=tailwind)
 
-### Mobile
-
-<!-- ![Flutter](https://img.shields.io/badge/-flutter-1d1d1d?style=flat-square&logo=flutter) -->
-![Android](https://img.shields.io/badge/-Android-1d1d1d?style=flat-square&logo=android)
 # Core Languages
 
 ![C](https://img.shields.io/badge/-black?style=flat&logo=c&logoColor=white&link=https://github.com/voidHimanshu)
@@ -61,7 +57,6 @@
 
 ### Deploy
 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat-square&logo=netlify)
 ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat-square&logo=heroku)
