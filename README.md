@@ -76,6 +76,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=VishnuOjha&show_icons=true&line_height=27&count_private=true&&theme=radical" alt="Vishnu's GitHub Stats" />
 </a>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=VishnuOjha.VishnuOjha)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=VishnuOjha.VishnuOjha) -->
 
 
