@@ -31,7 +31,7 @@
 <!--![Angular](https://img.shields.io/badge/-Angular-563D7C?style=flat-square&logo=angular)-->
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![TailWind](https://img.shields.io/badge/-TailWindCSS-563D7C?style=flat-square&logo=tailwind)
-
+<!-- ### 
 # Core Languages
 
 ![C](https://img.shields.io/badge/-black?style=flat&logo=c&logoColor=white&link=https://github.com/voidHimanshu)
